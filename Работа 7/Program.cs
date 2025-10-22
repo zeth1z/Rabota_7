@@ -18,4 +18,3 @@ public class Program
             Console.WriteLine("Ошибка, введите числовые значения для сторон треугольника");
         }
     }
-}
