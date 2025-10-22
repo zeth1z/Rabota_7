@@ -22,3 +22,4 @@
             throw new Exception($"Математическая ошибка: {ex.Message}");
         }
     }
+}
